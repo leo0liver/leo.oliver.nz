@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Leo Oliver</title>
+    <link>https://oliver.nz/tags/</link>
+    <description>Recent content in Tags on Leo Oliver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>NZ</copyright>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://oliver.nz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emacs</title>
+      <link>https://oliver.nz/tags/emacs/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://oliver.nz/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://oliver.nz/tags/hugo/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://oliver.nz/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>org</title>
+      <link>https://oliver.nz/tags/org/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://oliver.nz/tags/org/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

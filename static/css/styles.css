@@ -1,0 +1,9 @@
+
+code.language-bash{
+    margin-left: -20px !important;
+}
+
+.command-line-prompt {
+    visibility: hidden;
+    width: 0px;
+}

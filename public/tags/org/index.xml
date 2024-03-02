@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>org on Leo Oliver</title>
+    <link>https://oliver.nz/tags/org/</link>
+    <description>Recent content in org on Leo Oliver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>NZ</copyright>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://oliver.nz/tags/org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging with org-mode and hugo</title>
+      <link>https://oliver.nz/posts/2021/09/blogging-with-org-mode-and-hugo/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://oliver.nz/posts/2021/09/blogging-with-org-mode-and-hugo/</guid>
+      <description>Once you are far down the path of using emacs and org-mode, it feels wasteful to learn a whole new scheme for generating text. As much as I love markdown, I would much rather put my muscle memory to use keeping my content in org-mode files. This thinking took me to the excellent org-mode extension ox-hugo. This module allows you to keep your content in a monolithic org file and simply exports neatly to the markdown that hugo expects.</description>
+    </item>
+    
+  </channel>
+</rss>
